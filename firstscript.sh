@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "first script"
+echo "first script for git" 
